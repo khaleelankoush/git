@@ -5,5 +5,8 @@ public class Main {
         // Person1
         System.out.println("Person1");
         System.out.println("first edit");
+
+        // Person2
+        System.out.println("Person2");
     }
 }
